@@ -1,0 +1,20 @@
+{
+  "name": "eth_proof_of_ownership",
+  "version": "1.0.0",
+  "description": "a simple example to prove ownership of an address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Austin Fatheree",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "eth-lightwallet": "^2.5.4",
+    "ethereumjs-util": "^5.1.1",
+    "hooked-web3-provider": "^1.0.0",
+    "install": "^0.10.1",
+    "npm": "^4.6.1",
+    "q": "^1.5.0",
+    "web3": "^0.19.0"
+  }
+}
