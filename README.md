@@ -1,6 +1,8 @@
 # eth_proof_of_ownership
 Proof of ownership of an ethereum address
 
+This code was written for the dev log post [Confirming ownership of on-chain assets off the chain](http://catallax.info/news/2017/5/25/confirming-ownership-of-on-chain-assets-off-the-chain) at [Catallax.info](http://catallax.info).
+
 If you have any comments or questions, please leave them in the issues tab or send them to me on twitter at [@hypercatallax](https://twitter.com/hypercatallax). 
 
 If you’d like to see more of this kind of stuff and help us build this new economy please consider supporting the 
